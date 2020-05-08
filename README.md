@@ -4,7 +4,7 @@
 
 ## install & useage
 
-`npm install --save "bplokjs-calendar-dates`
+`npm install --save bplokjs-calendar-dates`
 
 `calendarDates(date, options)`
 
