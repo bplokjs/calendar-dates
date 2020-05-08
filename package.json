@@ -1,23 +1,24 @@
 {
-    "name": "bplokjs-calendar-dates",
-    "version": "0.1.0",
-    "description": "获取指定月份天数",
-    "main": "index.js",
-    "scripts": {
-        "test": "node test/index"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/bplokjs/calendar-dates.git"
-    },
-    "keywords": [
-        "calendar-dates",
-        "bplokjs"
-    ],
-    "author": "nobo.zhou@foxmail.com",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/bplokjs/calendar-dates/issues"
-    },
-    "homepage": "https://github.com/bplokjs/calendar-dates#readme"
+	"name": "bplokjs-calendar-dates",
+	"version": "0.1.1",
+	"description": "获取指定月份天数",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"scripts": {
+		"test": "node test/index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bplokjs/calendar-dates.git"
+	},
+	"keywords": [
+		"calendar-dates",
+		"bplokjs"
+	],
+	"author": "nobo.zhou@foxmail.com",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bplokjs/calendar-dates/issues"
+	},
+	"homepage": "https://github.com/bplokjs/calendar-dates#readme"
 }
